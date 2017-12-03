@@ -1,0 +1,11 @@
+{
+    "name": "lvht/jaeger-idl",
+    "autoload": {
+        "psr-4": {
+            "Jaeger\\Thrift\\": "./Jaeger/Thrift"
+        }
+    },
+    "require": {
+        "apache/thrift": "^0.10.0"
+    }
+}
